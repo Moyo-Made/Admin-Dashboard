@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # Admin-Dashboard
-An admin dashboard using React &amp; Tailwind
+An admin dashboard using React and Tailwind
 >>>>>>> c730138a15e5a28b66fa38f149482f7946fdda6b

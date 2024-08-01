@@ -10,4 +10,3 @@ Currently, two official plugins are available:
 =======
 # Admin-Dashboard
 An admin dashboard using React and Tailwind
->>>>>>> c730138a15e5a28b66fa38f149482f7946fdda6b
